@@ -21,7 +21,7 @@ Soy desarrollador Android especializado en **Kotlin**, con sólida experiencia e
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=japico1420&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="48%" />
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:japico@rbm.com.co)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japico1420&layout=compact&theme=radical&hide_border=true&border_radius=15" width="48%" />
 
 </div>
 
@@ -46,5 +46,5 @@ Soy desarrollador Android especializado en **Kotlin**, con sólida experiencia e
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573143609112)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:japico@rbm.com.co)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:japico@rbm.com.co)
 </div>
